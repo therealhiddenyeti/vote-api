@@ -1,1 +1,1 @@
-# tekton-pipelines-demo
+# Openshift Tekton Pipeline demo vote api
